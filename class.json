@@ -1,0 +1,26 @@
+[
+  {
+    "occupantName": "John Doe",
+    "occupantAge": 35,
+    "flatNo": 12,
+    "occupantStartDate": "2021-03-15"
+  },
+  {
+    "occupantName": "Maria Popescu",
+    "occupantAge": 28,
+    "flatNo": 7,
+    "occupantStartDate": "2022-06-01"
+  },
+  {
+    "occupantName": "Alex Ionescu",
+    "occupantAge": 42,
+    "flatNo": 21,
+    "occupantStartDate": "2019-11-20"
+  },
+  {
+    "occupantName": "Elena Marinescu",
+    "occupantAge": 31,
+    "flatNo": 3,
+    "occupantStartDate": "2023-01-10"
+  }
+]
