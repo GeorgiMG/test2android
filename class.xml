@@ -1,0 +1,30 @@
+<classname>
+    <movie>
+        <movieTitle></movieTitle>
+        <profit></profit>
+        <movieGenre></movieGenre>
+        <releaseDate></releaseDate>
+        <platform></platform>
+    </movie>
+    <movie>
+        <movieTitle></movieTitle>
+        <profit></profit>
+        <movieGenre></movieGenre>
+        <releaseDate></releaseDate>
+        <platform></platform>
+    </movie>
+    <movie>
+        <movieTitle></movieTitle>
+        <profit></profit>
+        <movieGenre></movieGenre>
+        <releaseDate></releaseDate>
+        <platform></platform>
+    </movie>
+    <movie>
+        <movieTitle></movieTitle>
+        <profit></profit>
+        <movieGenre></movieGenre>
+        <releaseDate></releaseDate>
+        <platform></platform>
+    </movie>
+</classname>
